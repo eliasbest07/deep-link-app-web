@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.btmstudio.recursosnativos",
+      "sha256_cert_fingerprints":
+      ["90:34:79:D8:57:5A:5E:38:F8:41:48:D9:C1:45:56:4F:64:77:86:5A:3D:F4:A4:5D:A6:4E:BF:79:99:78:75:AD"]
+    }
+  }]
+  
